@@ -24,7 +24,7 @@ body{
 
 .logo {
     margin: 6px;
-    background-image: url('../album/Amzon.png');
+    background-image: url(./album/Amzon.png);
     background-size: cover;
     height: 50px;
     padding: 0px 6px 0px 6px;
