@@ -24,7 +24,7 @@ body{
 
 .logo {
     margin: 6px;
-    background-image: url(./album/Amzon.png);
+    background-image: url('/album/Amzon.png');
     background-size: cover;
     height: 50px;
     padding: 0px 6px 0px 6px;
@@ -50,7 +50,7 @@ body{
 }
 
 .addsec {
-    margin-left: 2px;
+    margin-left: 4px;
 }
 
 .add-icon {
@@ -59,8 +59,8 @@ body{
 
 .add-icon i {
     position: relative;
-    bottom: 6px;
-    font-size: 20px;
+    bottom: 5px;
+    font-size: 17px;
 }
 
 .nav-se {
